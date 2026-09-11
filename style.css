@@ -227,6 +227,11 @@ body {
   margin-top: 1.5rem;
 }
 
+/* for the quotes he added on 9/11/26*/
+.simpleList {
+   margin: 0 30px;
+}
+
 /* these classes are also used on the contact page */
 .contactComponents {
   display: flex;
